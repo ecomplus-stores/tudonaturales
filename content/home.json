@@ -38,10 +38,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/611ef43e1e7d7.jpg"
+          "img": "/img/uploads/611ef43e1e7d7.jpg",
+          "link": "https://api.whatsapp.com/message/DNVNSIXUBPISE1?autoload=1&app_absent=0"
         },
         {
-          "img": "/img/uploads/611ef50d53fa3.webp"
+          "img": "/img/uploads/611ef50d53fa3.webp",
+          "link": "/sexualidade"
         }
       ]
     },
