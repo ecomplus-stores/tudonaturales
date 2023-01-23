@@ -44,6 +44,11 @@
           "img": "/img/uploads/611ef50d53fa3.webp"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
