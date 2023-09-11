@@ -48,8 +48,11 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6332058473321213f88ea6d5:categories:Dores:/dores",
       "sort": "views"
     }
   ]
