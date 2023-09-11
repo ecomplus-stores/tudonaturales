@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".body {\n    color: #2d2d2d;\n    font-size: 0.8rem;\n}",
   "html_head": "",
   "html_body": ""
 }
