@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "",
+    "gtmContainerId": "GTM-TSSHBN2",
     "dataLayerVar": "dataLayer",
     "partytown": false
   },
