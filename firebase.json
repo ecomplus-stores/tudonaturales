@@ -1,6 +1,31 @@
 {
   "hosting": {
     "redirects": [
+   {
+        "source": "/fertilidade-para-homens-saude-do-esperma-motilidade-apoia-a-concepcao-para-ele-vitaminas-pre-natais-masculinas-com-raiz-de-maca-ashwagandha-folato-b12-60-capsulas",
+        "destination": "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p",
+        "type": 301
+    },
+    {
+        "source": "/maca-preta-peruana-20000mg-180-capsulas-vegetariano-sem-ogm-sem-gluten/p",
+        "destination": "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p",
+        "type": 301
+    },
+    {
+        "source": "/royal-maca-para-homens-180-capsulas/p",
+        "destination": "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p",
+        "type": 301
+    },
+    {
+        "source": "/maca-peruana-fermentada-new-chapter-96-tabletes/p",
+        "destination": "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p",
+        "type": 301
+    },
+    {
+        "source": "/maca-magic-gelatinizada-200-capsulas-veganas/p",
+        "destination": “/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p”,
+        "type": 301
+    }
     ],
     "public": "dist",
     "ignore": [
