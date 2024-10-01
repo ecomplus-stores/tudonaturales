@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a122720c31ed354b6921e10eab9e4bf9.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_384x384.a122720c31ed354b6921e10eab9e4bf9.webp",
+      "sizes": "384x384",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_192x192.a122720c31ed354b6921e10eab9e4bf9.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.a122720c31ed354b6921e10eab9e4bf9.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.a122720c31ed354b6921e10eab9e4bf9.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "Tudo Natural",
+  "short_name": "Tudo Natural",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Tudo Natural é uma loja inovadora no ramo de suplementos e produtos para a saúde em geral que traz do mundo inteiro para o Brasil os melhores produtos de forma garantida e ágil.",
+  "background_color": "#ffffff",
+  "theme_color": "#9ac25b"
+}
