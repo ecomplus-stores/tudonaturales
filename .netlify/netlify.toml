@@ -3,6 +3,36 @@
   functions = "functions-zip"
 
 [[redirects]]
+  from = "/fertilidade-para-homens-saude-do-esperma-motilidade-apoia-a-concepcao-para-ele-vitaminas-pre-natais-masculinas-com-raiz-de-maca-ashwagandha-folato-b12-60-capsulas"
+  to = "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maca-preta-peruana-20000mg-180-capsulas-vegetariano-sem-ogm-sem-gluten/p"
+  to = "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/royal-maca-para-homens-180-capsulas/p"
+  to = "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maca-peruana-fermentada-new-chapter-96-tabletes/p"
+  to = "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maca-magic-gelatinizada-200-capsulas-veganas/p"
+  to = "/menevit-suplemento-para-fertilidade-masculina-bayer-90-capsulas/p"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/.netlify/functions/ssr?slug=:splat"
   status = 200
