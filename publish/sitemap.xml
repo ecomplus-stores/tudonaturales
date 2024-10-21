@@ -11042,15 +11042,15 @@
     </url>
   
     <url>
-      <loc>https://www.tudonaturales.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.tudonaturales.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.tudonaturales.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -11060,13 +11060,13 @@
     </url>
   
     <url>
-      <loc>https://www.tudonaturales.com.br/admin/index</loc>
+      <loc>https://www.tudonaturales.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.tudonaturales.com.br/app/index</loc>
+      <loc>https://www.tudonaturales.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
